@@ -1,0 +1,42 @@
+body{
+    margin:0;
+}
+
+.img-responsive{
+    width: 100vw;
+    height: 200px;
+    padding: 0;
+    
+}
+.navbar{
+    padding: 0;
+}
+
+.d-flex{
+    width: 70vw
+}
+.background{
+    background-image: url(bike-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+h1{
+    color: white;
+}
+h5{
+    display: flex;
+    justify-content: center;
+}
+p{
+    width: 100px;
+}
+.prix{
+    display:flex;
+    justify-content: center;
+}
+.btn{
+    background-color: white;
+    color: rgb(16, 145, 145);
+    border:rgb(16, 145, 145) solid 1px
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+.titre{
+    color: white;
+}
+.navbar-expand-lg{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    
+}
+.basket{
+    text-decoration:none;
+    color: black;
+}
+
+.tab-img{
+    height: 50px;
+    width: 50px;
+}
+button{
+    margin-left: 10px;
+    background-color: white;
+    color: rgb(16, 145, 145);
+    border:rgb(16, 145, 145) solid 1px
+}
+.pic-table{
+    height: 100px;
+}
